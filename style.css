@@ -1,0 +1,61 @@
+body {
+ background-image: url("https://th.bing.com/th/id/OIP.ZP4V2KtJ3EE5sTxr_794sAHaEK?w=281&h=180&c=7&o=5&dpr=1.5&pid=1.7");
+ background-color:#000000;
+ background-size: cover;
+ background-repeat: no-repeat;
+ border: 50px solid rgb(7, 1, 22);
+}
+
+p {
+  color:lightblue;
+  font-family:impact;
+  align-self: center;
+}
+.picture{
+  float: left;
+  align-self: left;
+  width:50%;
+  height:40%;
+  alt:missing halo image;
+}
+.halo1{
+  float: right;
+  align-self: right;
+  width:50%;
+  height:400px;
+  alt:missing halo image;
+}
+.halofinale {
+  width:100%;
+}
+a:link {
+  color: rgb(169, 255, 248);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(163, 16, 163);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(19, 64, 161);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(22, 139, 143);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+img {
+  align-self: center;
+}
+
+footer {
+  text-align:center;
+}
